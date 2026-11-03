@@ -1,0 +1,19 @@
+{
+  "seed": 42,
+  "samples_per_class_per_snr": 250,
+  "samples_per_channel": 256,
+  "snr_db_levels": [
+    -5,
+    0,
+    5,
+    10,
+    15,
+    20,
+    25
+  ],
+  "classes": [
+    "Rayleigh",
+    "Rician"
+  ],
+  "rician_k_db": 6.0
+}

@@ -1,0 +1,22 @@
+model,snr_db,accuracy,macro_f1
+SVM,-5,1.0,1.0
+SVM,0,1.0,1.0
+SVM,5,1.0,1.0
+SVM,10,1.0,1.0
+SVM,15,1.0,1.0
+SVM,20,1.0,1.0
+SVM,25,1.0,1.0
+Random Forest,-5,0.9819819819819819,0.981910039113429
+Random Forest,0,1.0,1.0
+Random Forest,5,1.0,1.0
+Random Forest,10,1.0,1.0
+Random Forest,15,1.0,1.0
+Random Forest,20,1.0,1.0
+Random Forest,25,1.0,1.0
+MLP,-5,0.9819819819819819,0.9819453480806766
+MLP,0,1.0,1.0
+MLP,5,1.0,1.0
+MLP,10,1.0,1.0
+MLP,15,1.0,1.0
+MLP,20,1.0,1.0
+MLP,25,1.0,1.0
